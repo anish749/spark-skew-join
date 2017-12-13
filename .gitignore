@@ -197,3 +197,4 @@ $RECYCLE.BIN/
 .idea/*
 *.iml
 spark-warehouse/*
+data/skewed_stock
